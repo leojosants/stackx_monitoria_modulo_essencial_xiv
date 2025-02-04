@@ -2,7 +2,7 @@
   
 ## Preparação para Lógica de Programação
 
-- [ok] -->  [Aula - Raciocínio Lógico](https://www.youtube.com/watch?v=SMI-J34z8Qs)
+- [ok] --> [Aula - Raciocínio Lógico](https://www.youtube.com/watch?v=SMI-J34z8Qs)
 
 ### Conteúdo complementar
 
