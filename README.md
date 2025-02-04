@@ -4,7 +4,7 @@
 
     ---
 
-- Aula ao vivo - Onboarding
+- [Aula ao vivo - Onboarding](https://github.com/leojosants/stackx_monitoria_modulo_essencial_xiv/tree/main/02__aula_ao_vivo_onboarding)
 
     ---
 
