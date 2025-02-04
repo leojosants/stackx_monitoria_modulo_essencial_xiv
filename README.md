@@ -1,6 +1,6 @@
 # Repositório de apoio do Módulo Essencial XIV
 
-## Estrutura do curso
+## Estrutura do módulo
 
 - [Aula ao vivo - Soft Skills](https://github.com/leojosants/stackx_monitoria_modulo_essencial_xiv/tree/main/01__aula_ao_vivo_soft_skills)
 
