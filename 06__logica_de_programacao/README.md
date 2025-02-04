@@ -8,7 +8,7 @@
 
 - [ok] --> [Aula - Arquitetura de Dados](https://www.youtube.com/watch?v=ez0HNYRdvQQ)
 
-- [] --> [Aula - Raciocínio Lógico](https://www.youtube.com/watch?v=qLxWEeonE9Q)
+- [ok] --> [Aula - Raciocínio Lógico](https://www.youtube.com/watch?v=qLxWEeonE9Q)
 
 - [] --> [Aula - Algoritmos e Diagramas](https://www.youtube.com/watch?v=j5yC12psXKA)
 
