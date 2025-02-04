@@ -1,6 +1,6 @@
 # Repositório de apoio do Módulo Essencial XIV
 
-- Aula ao vivo - Soft Skills
+- [Aula ao vivo - Soft Skills](https://github.com/leojosants/stackx_monitoria_modulo_essencial_xiv/tree/main/01__aula_ao_vivo_soft_skills)
 
     ---
 
