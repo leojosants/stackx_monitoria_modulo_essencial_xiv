@@ -8,7 +8,7 @@
 
     ---
 
-- Profissão - Desenvolvedor de Software
+- [Profissão - Desenvolvedor de Software](https://github.com/leojosants/stackx_monitoria_modulo_essencial_xiv/tree/main/03__profissao_desenvolvedor_de_software)
 
     ---
   
