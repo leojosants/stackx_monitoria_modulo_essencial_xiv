@@ -6,7 +6,7 @@
 
 - [ok] --> [Aula - Introdução à Computação](https://www.youtube.com/watch?v=mrc1gJo1tvI)
 
-- [] --> [Aula - Arquitetura de Dados](https://www.youtube.com/watch?v=ez0HNYRdvQQ)
+- [ok] --> [Aula - Arquitetura de Dados](https://www.youtube.com/watch?v=ez0HNYRdvQQ)
 
 - [] --> [Aula - Raciocínio Lógico](https://www.youtube.com/watch?v=qLxWEeonE9Q)
 
