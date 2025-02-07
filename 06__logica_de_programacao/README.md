@@ -12,4 +12,4 @@
 
 - [ok] --> [Aula - Algoritmos e Diagramas](https://www.youtube.com/watch?v=j5yC12psXKA)
 
-- [] --> [Aula - Vetores](https://www.youtube.com/watch?v=tq01BH1fxtI)
+- [ok] --> [Aula - Vetores](https://www.youtube.com/watch?v=tq01BH1fxtI)
