@@ -22,8 +22,13 @@ programa {
 		exibirMensagem("\n\n-=-=-=-=-=-=-=-=-=-=- Exibindo dados -=-=-=-=-=-=-=-=-=-=- \n\n")
 		escreva("- Salário a receber no referido mês ..: R$", salarioMes, "\n\n")
 	}
+
+	funcao real calcularSalarioMensal(real valorPorHora, real horasTrabalhadasMes) {
+		real calculoSalario = (valorPorHora * horasTrabalhadasMes)
+		retorne calculoSalario
+	}
 	
-	funcao inicio() {
+	funcao programaPrincipal() {
 		real valorPorHora = 0.0
 		real horasTrabalhadasMes = 0.0
 		real salarioMes = 0.0
@@ -37,10 +42,14 @@ programa {
 		exibirMensagem("- Informe o número de horas trabalhadas no mês .......: ")
 		solicitarDados(horasTrabalhadasMes)
 
-		salarioMes = (valorPorHora * horasTrabalhadasMes)
+		salarioMes = calcularSalarioMensal(valorPorHora, horasTrabalhadasMes)
 		salarioMes = arredondarValor(salarioMes, 2)	
 
 		exibirDados(salarioMes)		
+	}
+
+	funcao inicio() {
+		programaPrincipal()
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -48,8 +57,8 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1191; 
- * @DOBRAMENTO-CODIGO = [8, 12];
+ * @POSICAO-CURSOR = 915; 
+ * @DOBRAMENTO-CODIGO = [8, 12, 16, 20];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

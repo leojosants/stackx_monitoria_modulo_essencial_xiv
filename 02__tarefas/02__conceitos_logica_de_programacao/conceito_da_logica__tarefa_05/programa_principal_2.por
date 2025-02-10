@@ -17,29 +17,43 @@ programa {
 	funcao real calcularAreaQuadrado(real medida) {
 		retorne Matematica.potencia(medida, 2)
 	}
+
+	funcao vazio lerEntrada(real &variavel) {
+		leia(variavel)
+	}
+
+	funcao real calcularDobroAreaQuadrado(real areaQuadrado) {
+		retorne (areaQuadrado * 2)	
+	}
+
+	funcao vazio exibirDados(real areaQuadrado, real dobroAreaQuadrado) {
+		exibirMensagem("\n\n-=-=-=-=-=-=-=-=-=-=- Exibindo dados -=-=-=-=-=-=-=-=-=-=- \n\n")
+		escreva("- Área do quadrado ...........: ", areaQuadrado, "cm² \n")
+		escreva("- Dobro da área do quadrado ..: ", dobroAreaQuadrado, "cm² \n\n")
+	}
 	 		
-	funcao inicio() {
-		real medidaLadosQuadrado
-		real areaQuadrado
-		real dobroAreaQuadrado
+	funcao programaPrincipal() {
+		real medidaLadosQuadrado = 0.0
+		real areaQuadrado = 0.0
+		real dobroAreaQuadrado = 0.0
 		
 		
 		exibirMensagem("\n-=-=-=-=-=-=-=-=-=-=- Solicitando dados -=-=-=-=-=-=-=-=-=-=- \n\n")		
 
 		exibirMensagem("- Informe o valor dos lados de um quadrado [cm] ..: ")		
-		leia(medidaLadosQuadrado)
+		lerEntrada(medidaLadosQuadrado)
 
 		areaQuadrado = calcularAreaQuadrado(medidaLadosQuadrado)				
 		areaQuadrado = arredondarValor(areaQuadrado, 2)	
 		
-		dobroAreaQuadrado = (areaQuadrado * 2)		
-		dobroAreaQuadrado = Matematica.arredondar(dobroAreaQuadrado, 2)
-		
-		arredondarValor(dobroAreaQuadrado, 2)		
+		dobroAreaQuadrado = calcularDobroAreaQuadrado(areaQuadrado)		
+		dobroAreaQuadrado = arredondarValor(dobroAreaQuadrado, 2)	
 
-		exibirMensagem("\n\n-=-=-=-=-=-=-=-=-=-=- Exibindo dados -=-=-=-=-=-=-=-=-=-=- \n\n")
-		escreva("- Área do quadrado ...........: ", areaQuadrado, "cm² \n")
-		escreva("- Dobro da área do quadrado ..: ", dobroAreaQuadrado, "cm² \n\n")
+		exibirDados(areaQuadrado, dobroAreaQuadrado)
+	}
+
+	funcao inicio() {
+		programaPrincipal()
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -47,7 +61,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 548; 
+ * @POSICAO-CURSOR = 1519; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -40,13 +40,13 @@ programa {
 		escreva("- Média das notas recebidas ..: ", mediaNotas, "\n\n")
 	}
 	
-	funcao inicio() {
+	funcao programaPrincipal() {
 		const inteiro QUANTIDADE_NOTAS = 4
 		real notas[QUANTIDADE_NOTAS]
 		real somaNotas = 0.0
 		real mediaNotas = 0.0
-		inteiro contador_1
-		inteiro contador_2
+		inteiro contador_1 = 0
+		inteiro contador_2 = 0
 		inteiro quantidadePosicoesVetorNotas = pegarQuantidadeElementosVetor(notas)
 		
 
@@ -63,13 +63,17 @@ programa {
 
 		exibirDados(mediaNotas)
 	}
+
+	funcao inicio() {
+		programaPrincipal()
+	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1933; 
+ * @POSICAO-CURSOR = 1449; 
  * @DOBRAMENTO-CODIGO = [12, 16, 23, 29, 33];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;

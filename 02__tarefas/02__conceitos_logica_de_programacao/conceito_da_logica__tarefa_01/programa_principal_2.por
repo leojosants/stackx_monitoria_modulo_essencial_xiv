@@ -18,11 +18,11 @@ programa {
 		escreva("- Salário a receber no referido mês ..: R$", salarioMes, "\n\n")
 	}
 
-	funcao vazio solicitarDados(real &variavel) {
+	funcao vazio lerEntrada(real &variavel) {
 		leia(variavel)
 	}
 		
-	funcao inicio() {
+	funcao programaPrincipal() {
 		real primeiroNumero = 0.0
 		real segundoNumero = 0.0
 		real somaNumeros = 0.0
@@ -31,15 +31,19 @@ programa {
 		exibirMensagem("\n-=-=-=-=-=-=-=-=-=-=- Solicitando dados -=-=-=-=-=-=-=-=-=-=- \n\n")
 		
 		exibirMensagem("- Informe o primeiro número ..: ")
-		solicitarDados(primeiroNumero)
+		lerEntrada(primeiroNumero)
 
 		exibirMensagem("- Informe o segundo número ...: ")
-		solicitarDados(segundoNumero)
+		lerEntrada(segundoNumero)
 
 		somaNumeros = primeiroNumero + segundoNumero
 		somaNumeros = arredondarValor(somaNumeros, 2)
 	
 		exibirDados(somaNumeros)
+	}
+
+	funcao inicio() {
+		programaPrincipal()
 	}
 }
 /* $$$ Portugol Studio $$$ 
