@@ -10,6 +10,7 @@
 programa { 	
 	inclua biblioteca Matematica
 	
+	
 	funcao vazio exibirMensagem(cadeia texto) {
 		escreva(texto)
 	}

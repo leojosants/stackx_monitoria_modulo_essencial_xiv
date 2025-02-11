@@ -6,6 +6,7 @@
 programa { 		
 	inclua biblioteca Matematica
 	
+	
 	funcao inicio() {		
 		real quantidadeAbastecidaAutomovel = 0.0
 		real distanciaPercorrePorLitro = 0.0

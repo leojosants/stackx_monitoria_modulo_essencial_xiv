@@ -10,6 +10,7 @@
 programa { 	
 	inclua biblioteca Matematica
 	
+	
 	funcao inicio() {	
 		real publicoTotalJogoFutebol = 0.0
 		real rendaTotalJogo = 0.0
