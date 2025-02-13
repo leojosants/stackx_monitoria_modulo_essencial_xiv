@@ -49,8 +49,7 @@ programa {
 		
 			// exibirAlturasAumentadasAno(quantidadeAnosAlturaZeSejaMaiorAlturaChico, alturaChicoAumentadaAno, alturaZeAumentadaAno)		
 		}
-		enquanto(alturaZeAumentadaAno <= alturaChicoAumentadaAno)
-		
+		enquanto(alturaZeAumentadaAno <= alturaChicoAumentadaAno)		
 
 		exibirDados(quantidadeAnosAlturaZeSejaMaiorAlturaChico)
 	}
@@ -60,7 +59,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1961; 
+ * @POSICAO-CURSOR = 2151; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
