@@ -15,12 +15,12 @@ programa {
 		
 		escreva("\n-=-=-=-=-=-=-=-=-=-=- Solicitando dados -=-=-=-=-=-=-=-=-=-=- \n\n")
 
-		escreva("- Informe a quantidade de combustível abatecido no automóvel [Litros]: ")
+		escreva("- Informe a quantidade de combustível abatecido no automóvel [Litros] .....: ")
 		leia(quantidadeAbastecidaAutomovel)
 
 		quantidadeAbastecidaAutomovel = Matematica.arredondar(quantidadeAbastecidaAutomovel, 2)
 
-		escreva("- Informe a distância que o automóvel percorre por litro abastecido [km]: ")
+		escreva("- Informe a distância que o automóvel percorre por litro abastecido [km] ..: ")
 		leia(distanciaPercorrePorLitro)
 
 		distanciaPercorrePorLitro = Matematica.arredondar(distanciaPercorrePorLitro, 2)
@@ -29,7 +29,7 @@ programa {
 		distanciaMaximaAutomovelAtinge = Matematica.arredondar(distanciaMaximaAutomovelAtinge, 2)
 		
 		escreva("\n\n-=-=-=-=-=-=-=-=-=-=- Exibindo dados -=-=-=-=-=-=-=-=-=-=- \n\n")
-		escreva("- O automóvel poderá atingir ", distanciaMaximaAutomovelAtinge,"km, com a quantide de ", quantidadeAbastecidaAutomovel,"L de combustível\n\n")
+		escreva("- O automóvel poderá atingir a distância de ", distanciaMaximaAutomovelAtinge,"km, com a quantide de ", quantidadeAbastecidaAutomovel,"L de combustível. \n\n")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -37,7 +37,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 846; 
+ * @POSICAO-CURSOR = 758; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
