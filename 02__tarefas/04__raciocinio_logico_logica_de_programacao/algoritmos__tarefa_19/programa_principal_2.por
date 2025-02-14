@@ -28,7 +28,7 @@ programa {
 		escreva("- Ano(s) necessário(s) para que Zé tenha a altura maior que a de Chico ..: ", quantidadeAnosAlturaZeSejaMaiorAlturaChico, " ano(s)\n\n")
 	}
 	
-	funcao inicio() {	
+	funcao programaPrincipal() {	
 		const real alturaChico = 1.50
 		const real alturaZe = 1.10
 		const real alturaChicoCresceAno = 0.02
@@ -53,13 +53,17 @@ programa {
 
 		exibirDados(quantidadeAnosAlturaZeSejaMaiorAlturaChico)
 	}
+
+	funcao inicio() {	
+		programaPrincipal()	
+	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2151; 
+ * @POSICAO-CURSOR = 1288; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
