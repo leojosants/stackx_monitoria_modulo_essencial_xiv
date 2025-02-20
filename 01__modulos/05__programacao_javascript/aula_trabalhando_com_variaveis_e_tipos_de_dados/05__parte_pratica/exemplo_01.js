@@ -4,7 +4,7 @@ let idade = 25;
 const PI = 3.14;
 let indefinido;
 
-console.log(nome, "");
+console.log(nome);
 console.log("Tipo de dado ..: ", typeof (nome), "\n");
 
 console.log(idade);
