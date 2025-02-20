@@ -4,7 +4,7 @@
 
 - [ok] --> [Aula - Introdução a linguagem de Programação JavaScript](https://www.youtube.com/watch?v=z1PrvhSrxbQ)
 
-- [Aula - Trabalhando com variáveis e tipos de dados](https://www.youtube.com/watch?v=GCsCWbXtoQA)
+- [ok] --> [Aula - Trabalhando com variáveis e tipos de dados](https://www.youtube.com/watch?v=GCsCWbXtoQA)
 
 - [Aula - Operadores e Introdução às Estruturas Condicionais](https://www.youtube.com/watch?v=PJDQgSbJvok)
 
