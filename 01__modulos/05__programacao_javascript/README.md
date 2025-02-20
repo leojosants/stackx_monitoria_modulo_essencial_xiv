@@ -6,7 +6,7 @@
 
 - [ok] --> [Aula - Trabalhando com variáveis e tipos de dados](https://www.youtube.com/watch?v=GCsCWbXtoQA)
 
-- [Aula - Operadores e Introdução às Estruturas Condicionais](https://www.youtube.com/watch?v=PJDQgSbJvok)
+- [ok] --> [Aula - Operadores e Introdução às Estruturas Condicionais](https://www.youtube.com/watch?v=PJDQgSbJvok)
 
 - [Aula - Aprofundando em Estruturas Condicionais](https://www.youtube.com/watch?v=xuo8T1KigIk)
 
