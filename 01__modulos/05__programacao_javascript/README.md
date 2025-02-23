@@ -10,7 +10,7 @@
 
 - [ok] --> [Aula - Aprofundando em Estruturas Condicionais](https://www.youtube.com/watch?v=xuo8T1KigIk)
 
-- [Aula - Introdução a Estruturas de repetição e For](https://www.youtube.com/watch?v=pnCwp-30MPY)
+- [ok] --> [Aula - Introdução a Estruturas de repetição e For](https://www.youtube.com/watch?v=pnCwp-30MPY)
 
 - [Aula - Aprendendo a utilizar While & Do While](https://www.youtube.com/watch?v=N-AztuWEPGg)
 
