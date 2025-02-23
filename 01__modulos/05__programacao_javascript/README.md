@@ -8,7 +8,7 @@
 
 - [ok] --> [Aula - Operadores e Introdução às Estruturas Condicionais](https://www.youtube.com/watch?v=PJDQgSbJvok)
 
-- [Aula - Aprofundando em Estruturas Condicionais](https://www.youtube.com/watch?v=xuo8T1KigIk)
+- [ok] --> [Aula - Aprofundando em Estruturas Condicionais](https://www.youtube.com/watch?v=xuo8T1KigIk)
 
 - [Aula - Introdução a Estruturas de repetição e For](https://www.youtube.com/watch?v=pnCwp-30MPY)
 
