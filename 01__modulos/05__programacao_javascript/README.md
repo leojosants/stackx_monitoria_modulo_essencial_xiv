@@ -18,7 +18,7 @@
 
 - [ok] --> [Aula - Funções & Manipulação de Arrays](https://www.youtube.com/watch?v=J3v0NEjEbAg)
 
-- [Aula - Funções Anônimas e Arrow Functions](https://www.youtube.com/watch?v=nUW6F5Mt1mU)
+- [ok] --> [Aula - Funções Anônimas e Arrow Functions](https://www.youtube.com/watch?v=nUW6F5Mt1mU)
 
 - [Aula - Introdução e Manipulação de Elementos com o DOM](https://www.youtube.com/watch?v=YKjb6jz0JLY)
 
