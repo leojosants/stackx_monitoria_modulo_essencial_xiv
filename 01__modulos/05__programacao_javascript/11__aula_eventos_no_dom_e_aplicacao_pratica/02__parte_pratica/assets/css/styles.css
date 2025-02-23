@@ -1,0 +1,9 @@
+#id-bloco {
+    height: 400px;
+    width: 400px;
+    margin: 5rem;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
