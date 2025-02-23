@@ -22,4 +22,4 @@
 
 - [ok] --> [Aula - Introdução e Manipulação de Elementos com o DOM](https://www.youtube.com/watch?v=YKjb6jz0JLY)
 
-- [Aula - Eventos no DOM & Aplicação prática](https://www.youtube.com/watch?v=SSyd8PZXWLA)
+- [ok] --> [Aula - Eventos no DOM & Aplicação prática](https://www.youtube.com/watch?v=SSyd8PZXWLA)
