@@ -14,7 +14,7 @@
 
 - [ok] --> [Aula - Aprendendo a utilizar While & Do While](https://www.youtube.com/watch?v=N-AztuWEPGg)
 
-- [Aula - Introdução a Arrays e seus métodos](https://www.youtube.com/watch?v=PwQGH492M8Q)
+- [ok] --> [Aula - Introdução a Arrays e seus métodos](https://www.youtube.com/watch?v=PwQGH492M8Q)
 
 - [Aula - Funções & Manipulação de Arrays](https://www.youtube.com/watch?v=J3v0NEjEbAg)
 
