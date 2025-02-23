@@ -12,7 +12,7 @@
 
 - [ok] --> [Aula - Introdução a Estruturas de repetição e For](https://www.youtube.com/watch?v=pnCwp-30MPY)
 
-- [Aula - Aprendendo a utilizar While & Do While](https://www.youtube.com/watch?v=N-AztuWEPGg)
+- [ok] --> [Aula - Aprendendo a utilizar While & Do While](https://www.youtube.com/watch?v=N-AztuWEPGg)
 
 - [Aula - Introdução a Arrays e seus métodos](https://www.youtube.com/watch?v=PwQGH492M8Q)
 
