@@ -16,7 +16,7 @@
 
 - [ok] --> [Aula - Introdução a Arrays e seus métodos](https://www.youtube.com/watch?v=PwQGH492M8Q)
 
-- [Aula - Funções & Manipulação de Arrays](https://www.youtube.com/watch?v=J3v0NEjEbAg)
+- [ok] --> [Aula - Funções & Manipulação de Arrays](https://www.youtube.com/watch?v=J3v0NEjEbAg)
 
 - [Aula - Funções Anônimas e Arrow Functions](https://www.youtube.com/watch?v=nUW6F5Mt1mU)
 
