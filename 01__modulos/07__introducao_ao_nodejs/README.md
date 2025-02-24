@@ -12,7 +12,7 @@
   
   - [ok] --> [Aula 1 - Console - Professor Fabio Mello](https://www.youtube.com/watch?v=Yz6FLn8l0jw)
   
-  - [Aula 2 - Input - Professor Fabio Mello](https://www.youtube.com/watch?v=hs4FeFSJcQM)
+  - [ok] --> [Aula 2 - Input - Professor Fabio Mello](https://www.youtube.com/watch?v=hs4FeFSJcQM)
   
   - [Aula 3 - Event Loop - Professor Fabio Mello](https://www.youtube.com/watch?v=tfmFP60U0as)
 
