@@ -10,7 +10,7 @@
 
 - Aula - Console, Input e Event Loop
   
-  - [Aula 1 - Console - Professor Fabio Mello](https://www.youtube.com/watch?v=Yz6FLn8l0jw)
+  - [ok] --> [Aula 1 - Console - Professor Fabio Mello](https://www.youtube.com/watch?v=Yz6FLn8l0jw)
   
   - [Aula 2 - Input - Professor Fabio Mello](https://www.youtube.com/watch?v=hs4FeFSJcQM)
   
