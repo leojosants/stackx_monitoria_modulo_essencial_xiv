@@ -16,4 +16,4 @@
   
   - [ok] --> [Aula 3 - Event Loop - Professor Fabio Mello](https://www.youtube.com/watch?v=tfmFP60U0as)
 
-- [Aula - Síncrono e Assíncrono](https://www.youtube.com/watch?v=A_RMx7obeuk)
+- [ok] --> [Aula - Síncrono e Assíncrono](https://www.youtube.com/watch?v=A_RMx7obeuk)
