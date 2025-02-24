@@ -4,7 +4,7 @@
 
 - Infográfico - Introdução ao Node Js
 
-- [Aula - Conhecendo Node.Js](https://www.youtube.com/watch?v=X3Gwq9denR0)
+- [ok] --> [Aula - Conhecendo Node.Js](https://www.youtube.com/watch?v=X3Gwq9denR0)
 
 - [Aula - Instalação e Primeiros Passos](https://www.youtube.com/watch?v=k6LR9MHaqos)
 
