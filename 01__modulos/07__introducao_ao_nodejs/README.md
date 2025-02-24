@@ -6,7 +6,7 @@
 
 - [ok] --> [Aula - Conhecendo Node.Js](https://www.youtube.com/watch?v=X3Gwq9denR0)
 
-- [Aula - Instalação e Primeiros Passos](https://www.youtube.com/watch?v=k6LR9MHaqos)
+- [ok] --> [Aula - Instalação e Primeiros Passos](https://www.youtube.com/watch?v=k6LR9MHaqos)
 
 - Aula - Console, Input e Event Loop
   
