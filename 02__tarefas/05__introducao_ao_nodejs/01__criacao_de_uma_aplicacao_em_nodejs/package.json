@@ -4,9 +4,16 @@
   "description": "- Crie uma apliação em NodeJS que faça o seguinte",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "01__criacao_de_uma_aplicacao_em_nodejs": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
